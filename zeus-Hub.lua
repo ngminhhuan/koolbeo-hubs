@@ -4789,13 +4789,13 @@ local Misc = Library:Tab("Misc","rbxassetid://11447063791")
 local Setting = Library:Tab("Settings","rbxassetid://11446835336")
 --------------------------------------------------------------------
 
-Setting:Label("anh iu bích ngọc")
+Setting:Label("tui la nmh beo")
 
 Setting:Line()
 
 Setting:Button("Sao Chép Link Facebook",function()
  
- setclipboard("https://www.facebook.com/61551675837476")
+ setclipboard("https://www.facebook.com/100082362678897")
   DiscordLib:Notification("Thông Báo" , "Đã Sao Chép Link Facebook" , 10 ,11816162894 )
  end)
 
