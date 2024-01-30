@@ -766,7 +766,7 @@ local NotiFrame = Instance.new("Frame")
     )
     end
  
- do  local ui =  game:GetService("CoreGui").RobloxGui.Modules:FindFirstChild("MKHOIHUB")  if ui then ui:Destroy() end end
+ do  local ui =  game:GetService("CoreGui").RobloxGui.Modules:FindFirstChild("NMHHUB")  if ui then ui:Destroy() end end
  
  function Update:Window(text,logo,keybind)
  local osfunc = {}
