@@ -818,7 +818,7 @@ local NotiFrame = Instance.new("Frame")
  Logo.BackgroundTransparency = 1.000
  Logo.Position = UDim2.new(-0.01, 0,-0.319, 0)
  Logo.Size = UDim2.new(0, 55,0, 45)
- Logo.Image = "rbxassetid:// 16152222934"..tostring(logo)
+ Logo.Image = "rbxassetid:// 16174461724"..tostring(logo)
  
  local Name = Instance.new("TextLabel")
  Name.Name = "MKHOI"
